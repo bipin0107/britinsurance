@@ -14,4 +14,4 @@ This project focuses on automating various testing scenarios for the Britinsuran
 Clone the repository:
 ```bash
 git clone https://github.com/bipin0107/Automations-Project.git
-cd Automations-Project
+cd britinsurance 
