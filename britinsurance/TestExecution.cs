@@ -39,6 +39,8 @@ namespace britinsurance
             // Get search results
             IList<IWebElement> results = britPage.GetSearchResults();
 
+            Console.WriteLine("Search result count:"+results );
+
             // Print each result
             foreach (var result in results)
             {
