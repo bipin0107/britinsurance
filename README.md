@@ -1,6 +1,6 @@
 # Britinsurance Automations Project
 
-This project focuses on automating various testing scenarios for the Britinsurance web application, including API testing, performance testing, and functional testing using tools like Selenium, Rest Assured, and JMeter.
+This project focuses on automating various testing scenarios for the Britinsurance web application, including API testing, performance testing, and functional testing using tools like Selenium, Rest Sharp, and JMeter.
 
 ## Getting Started
 
