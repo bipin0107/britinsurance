@@ -7,8 +7,8 @@ This project focuses on automating various testing scenarios for the Britinsuran
 ### Prerequisites
 - .NET SDK
 - Selenium WebDriver
-- Rest Assured
-- JMeter
+- Rest Sharp
+
 
 ### Installation
 Clone the repository:
