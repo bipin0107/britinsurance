@@ -1,17 +1,14 @@
-# Britinsurance Automations Project
+# Create a README file and initialize the Git repository
+echo "# britinsurance" > README.md
+git init
 
-This project focuses on automating various testing scenarios for the Britinsurance web application, including API testing, performance testing, and functional testing using tools like Selenium, Rest Sharp, and JMeter.
+# Stage the README file and commit
+git add README.md
+git commit -m "Initial commit"
 
-## Getting Started
+# Set the main branch and add the remote repository
+git branch -M main
+git remote add origin https://github.com/bipin0107/britinsurance.git
 
-### Prerequisites
-- .NET SDK
-- Selenium WebDriver
-- Rest Sharp
-
-
-### Installation
-Clone the repository:
-```bash
-git clone https://github.com/bipin0107/Automations-Project.git
-cd britinsurance 
+# Push the changes to the remote repository
+git push -u origin main
